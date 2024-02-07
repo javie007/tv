@@ -1,0 +1,9 @@
+猫影视四合一JS文件路径变换教程
+正常的配置地址1：
+assets://js/config_open.json
+正常的配置地址2：
+assets://2js/config_open.json
+爱好的配置地址3:  
+assets://3js/config_open.json
+爱好的配置地址4:  
+assets://4js/config_open.json
